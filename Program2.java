@@ -12,12 +12,6 @@ import java.util.Scanner;
 //
 //Course:        ITSE 2321 Object-Oriented Programming
 //
-//Due Date:      June 12, 2023
-//
-//Instructor:    Prof. Fred Kumi 
-//
-//Chapter:       Chapter 2
-//
 //Description:   Program calculates and displays how much annual property tax the
 //				 home owner will be charged for his or her property.
 //				 - collects actual value of property from user
