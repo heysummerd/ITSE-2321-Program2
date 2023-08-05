@@ -1,2 +1,2 @@
 # ITSE-2321-Program2
-Calculates Homeowner Annual Property Tax
+Calculates homeowner annual property tax
